@@ -19,9 +19,11 @@ SO THAT I can quickly create a professional README for a new project
 
 ## Usage
 
+To access the repo, go to https://github.com/ngkent75/ch09-READMEgen
+
 ![Video Walkthrough](./assets/media/video.gif)
 
-1. Open up your terminal in the directory that the files are in.
+1. Open up your terminal in the assets folder.
 2. Type node index.js to begin the application.
 3. Fill in relevant information as prompted in the terminal, pressing enter to continue to the next prompt.
 4. Once you answer all the prompts, the application will end and your README file will be generated.
